@@ -1,0 +1,26 @@
+*{
+    font-size: 1.2rem;
+}
+
+table, #button-wrap {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button{
+    width: 100%;
+}
+
+table, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.true {
+    color : green
+}
+
+.false {
+    color : red
+}
